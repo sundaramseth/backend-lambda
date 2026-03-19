@@ -7,9 +7,9 @@
 - Unit testing (Jest)
 
 How To Test -
-cd backend
-npm install
-npm test
+- cd backend 
+- npm install
+- npm test
 
 Flow- 
 Angular → HTTP call → API Gateway → Lambda → Response → Angular UI
